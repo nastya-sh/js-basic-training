@@ -1,9 +1,9 @@
 //  Задача 1.
-let firstName = "Anastasia", middleName = "Nikolaevna", lastname = "Shiryaeva"
+let firstName = "Anastasia", middleName = "Nikolaevna", lastName = "Shiryaeva"
 
-let fullName=`Name: ${lastname}, lastname  ${fn}`;
-let fullName=`Name: ${firstName[0]}, age: ${age}, lastname: ${lastname.length}`;
+let neFullName=`${lastName} ${firstName[0]} ${middleName[0]}`;
+let fullName=`${lastName} ${firstName} ${middleName}`;
 
-console.log(oldStant)
+console.log(neFullName)
 console.log('-------')
 console.log(fullName)
